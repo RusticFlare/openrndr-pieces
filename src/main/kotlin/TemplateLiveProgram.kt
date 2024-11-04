@@ -8,7 +8,6 @@ import org.openrndr.extra.olive.oliveProgram
  *  It uses oliveProgram {} instead of program {}. All code inside the
  *  oliveProgram {} can be changed while the program is running.
  */
-
 fun main() = application {
     configure {
         width = 800
